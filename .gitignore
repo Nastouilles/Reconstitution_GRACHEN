@@ -1,0 +1,20 @@
+# Fichiers et dossiers R à ignorer
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Dossiers d'entrée et sortie
+INPUTS/
+OUTPUTS/
+
+
+# Autres fichiers volumineux ou temporaires
+*.csv
+*.tsv
+*.rds
+*.pdf
+*.png
+*.jpeg
+*.zip
+*.tar.gz
